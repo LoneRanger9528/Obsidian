@@ -6,11 +6,11 @@ title: 人生巅峰的迅捷蟹
 titleTemplate: 记录回忆，知识和畅想的地方
 
 hero:
-  name: g~Nj$3J2^
+  name: Nólëbase
   text: 记录回忆，知识和畅想的地方
-  tagline: 以 g~Nj$3J2^ 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  tagline: 以 人生巅峰的迅捷蟹 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
   image:
-    src: /logo.png
+    src: /logo.svg
     alt: Vitest
   actions:
     - theme: brand
